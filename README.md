@@ -4,7 +4,7 @@
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kenned1y/)
 
 ![Kennedy GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedyEmanoel&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedyEmanoel&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedyEmanoel&layout=compact&theme=transparent)
 
 ## Tecnologias 
 
